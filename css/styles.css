@@ -114,6 +114,7 @@ img {
   background-position: center center;
   background-size: cover;
   max-width: 1440px;
+  margin: 0 auto;
 }
 .hero-title {
   font-weight: 700;
@@ -182,6 +183,16 @@ img {
 }
 .benefits-item {
   width: calc((100% - 3 * 24px) / 4);
+}
+.benefits-icon {
+  height: 112px;
+  background: #f4f4fd;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 .benefits-subtitle {
   font-weight: 500;
