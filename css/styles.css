@@ -85,7 +85,8 @@ img {
   /* line-height: 24px; */
   line-height: 1.5;
   letter-spacing: 0.02em;
-  color: #2e2f42;
+  /* color: #2e2f42; */
+  color: #404bbf;
   padding-top: 24px;
   padding-bottom: 24px;
   display: block;
