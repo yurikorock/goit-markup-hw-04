@@ -89,6 +89,7 @@ img {
   padding-top: 24px;
   padding-bottom: 24px;
   display: block;
+  position: relative;
 }
 
 .nav-item:hover,
