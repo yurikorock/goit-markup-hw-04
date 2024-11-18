@@ -100,8 +100,7 @@ img {
   /* line-height: 24px; */
   line-height: 1.5;
   letter-spacing: 0.02em;
-  /* color: #2e2f42; */
-  color: #404bbf;
+  color: #2e2f42;
   padding-top: 24px;
   padding-bottom: 24px;
   display: block;
@@ -111,6 +110,11 @@ img {
 
 .nav-item-current:hover,
 .nav-item-current:focus {
+  color: #404bbf;
+}
+
+.nav-item:hover,
+.nav-item:focus {
   color: #404bbf;
 }
 .header-address {
