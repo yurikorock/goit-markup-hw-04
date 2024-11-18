@@ -133,7 +133,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(/images/hero-image.jpg);
+    url(./images/hero-image.jpg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -421,7 +421,7 @@ img {
 .footer-logo-container {
   margin-right: 120px;
 }
-.fo .footer .logo {
+.footer .logo {
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
